@@ -17,10 +17,6 @@ git clone https://github.com/GaabrielCoosta/Elections_Brazil_2022
 # Enter the folder
 cd file
 
-# Choose the desired platform folder
-cd Cursoemvideo
-cd Mentorama/POO/Projeto3
-
 # Open pdf file
 Choose the problem to be solved and run the corresponding .py file
 ```
